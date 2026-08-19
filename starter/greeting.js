@@ -8,3 +8,5 @@ function sayGoodbye() {
     console.log("goodbye")
 }
 sayGoodbye()
+
+console.log("Hello Dara!");
