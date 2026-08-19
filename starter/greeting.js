@@ -4,3 +4,7 @@
 
 console.log("Hello, Git!");
 console.log("Chan Sovandara")
+function sayGoodbye() {
+    console.log("goodbye")
+}
+sayGoodbye()
